@@ -12,7 +12,7 @@
     "@bochilteam/scraper": "3.0.0",
     "@neeraj-x0/textpro": "^1.0.3",
     "@vitalets/google-translate-api": "^9.2.0",
-    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
+    "@whiskeysockets/baileys": "6.7.9",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@dark-yasiya/yt-dl.js":"latest", 
     "@dark-yasiya/scrap":"1.0.1",
@@ -24,7 +24,7 @@
     "node-schedule": "^2.1.0",
     "node-webpmux": "^3.1.0",
     "pg": "^8.8.0",
-    "pino": "^8.1.0",
+    "pino": "^7.0.5",
     "pm2": "^6.0.5",
     "archiver": "^5.3.1",
     "bitly": "^7.1.2",
@@ -78,13 +78,5 @@
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
     "mrnima-moviedl":"1.0.0"
-  },
-  "_moduleAliases": {
-    "@lib": "./lib",
-    "@ai": "./lib/functions/ai.js",
-    "@search": "./lib/functions/search.js",
-    "@anime": "./lib/functions/anime.js",
-    "@start": "./lib/haki.js",
-    "@config": "./config.js"
   }
 }
